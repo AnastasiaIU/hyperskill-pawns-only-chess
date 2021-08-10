@@ -3,7 +3,7 @@ Pawns-Only Chess for the JetBrains Academy project.
 
 There is an example of a chess board you're going to see:
 
-![Board](assets/board.png)
+![Board](assets/board.PNG)
 
 First, the program will ask players for their names. After that, the software will prompt each player to take turns and make a move.
 
